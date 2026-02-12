@@ -8,7 +8,7 @@ ISSR thickness: 500 m (100 m above and 400 m below the reference altitude)
 Constant supersaturation: sᵢ = 0.2 (20%)
 Synthetic initial geometry and particle radius
 The only difference between the two cases is that the rand version includes 20% white Gaussian noise added to the sᵢ equation at each iteration, whereas the other simulation does not include stochastic perturbations.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Description:
 The two .gif files: Tube_solver_horizontal_view & Tube_solver_vertical_view
 are part of ongoing/future work and demonstrate the applicability of the present model to realistic, large-scale simulations.
